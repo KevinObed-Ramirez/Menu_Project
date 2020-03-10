@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
-html#app{
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fdumpling%2F&psig=AOvVaw15dAqIfOt5uMJYo_wg9FVI&ust=1583366202506000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjz7K7B_-cCFQAAAAAdAAAAABAE");
+
+html{
+    background: url('https://images.pexels.com/photos/932261/pexels-photo-932261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-attachment: fixed;
+}
+header{
+    
+}
+nav {
+    display: block;
+  }
+p{
+    color: rgb(203, 164, 80);
 }
